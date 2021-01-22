@@ -78,7 +78,7 @@
 <script>
 import { mapState, mapActions, mapMutations } from "vuex";
 import CartCalculator from "./CartCalculator";
-import axios from "axios";
+//import axios from "axios";
 import { errorToaster } from "../../shared/service/ErrorHandler.js";
 export default {
   name: "Checkout",
